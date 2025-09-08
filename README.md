@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="center">Linguagens com as quais tenho experiência:</h4>
+<h4 align="right">Linguagens com as quais tenho experiência:</h4>
 
 ###
 
@@ -50,6 +50,8 @@
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
@@ -61,7 +63,6 @@
 <div align="right">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kei2077&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
-
 ###
 
 <img src="https://raw.githubusercontent.com/Kei2077/Kei2077/output/snake.svg" alt="Snake animation" />
