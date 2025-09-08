@@ -22,7 +22,7 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -63,6 +63,7 @@
 <div align="right">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kei2077&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
+
 ###
 
 <img src="https://raw.githubusercontent.com/Kei2077/Kei2077/output/snake.svg" alt="Snake animation" />
